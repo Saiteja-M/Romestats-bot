@@ -1,0 +1,432 @@
+{
+  "Weapons": [
+    {
+      "Name": "AEK-971 VINTOVKA",
+      "Kills": "c_aek__kw_g",
+      "Headshots": "c__aek_hsh_g",
+      "ShotsFired": "c_aek__sfw_g",
+      "ShotsHit": "c_aek__shw_g"
+    },
+    {
+      "Name": "XM8 PROTOTYPE",
+      "Kills": "c_xm8__kw_g",
+      "Headshots": "c__xm8_hsh_g",
+      "ShotsFired": "c_xm8__sfw_g",
+      "ShotsHit": "c_xm8__shw_g"
+    },
+    {
+      "Name": "F2000 ASSAULT",
+      "Kills": "c_f2000__kw_g",
+      "Headshots": "c__f2000_hsh_g",
+      "ShotsFired": "c_f2000__sfw_g",
+      "ShotsHit": "c_f2000__shw_g"
+    },
+    {
+      "Name": "STG.77 AUG",
+      "Kills": "c_aug__kw_g",
+      "Headshots": "c__aug_hsh_g",
+      "ShotsFired": "c_aug__sfw_g",
+      "ShotsHit": "c_aug__shw_g"
+    },
+    {
+      "Name": "AN-94 ABAKAN",
+      "Kills": "c_an94__kw_g",
+      "Headshots": "c__an94_hsh_g",
+      "ShotsFired": "c_an94__sfw_g",
+      "ShotsHit": "c_an94__shw_g"
+    },
+    {
+      "Name": "M416",
+      "Kills": "c_m416__kw_g",
+      "Headshots": "c__m416_hsh_g",
+      "ShotsFired": "c_m416__sfw_g",
+      "ShotsHit": "c_m416__shw_g"
+    },
+    {
+      "Name": "M16A2",
+      "Kills": "c_m16__kw_g",
+      "Headshots": "c__m16_hsh_g",
+      "ShotsFired": "c_m16__sfw_g",
+      "ShotsHit": "c_m16__shw_g"
+    },
+    {
+      "Name": "9A-91 AVTOMAT",
+      "Kills": "c_9a91__kw_g",
+      "Headshots": "c__9a91_hsh_g",
+      "ShotsFired": "c_9a91__sfw_g",
+      "ShotsHit": "c_9a91__shw_g"
+    },
+    {
+      "Name": "SCAR-L CARBINE",
+      "Kills": "c_scar__kw_g",
+      "Headshots": "c__scar_hsh_g",
+      "ShotsFired": "c_scar__sfw_g",
+      "ShotsHit": "c_scar__shw_g"
+    },
+    {
+      "Name": "XM8 COMPACT",
+      "Kills": "c_xm8c__kw_g",
+      "Headshots": "c__xm8c_hsh_g",
+      "ShotsFired": "c_xm8c__sfw_g",
+      "ShotsHit": "c_xm8c__shw_g"
+    },
+    {
+      "Name": "AKS-74U KRINKOV",
+      "Kills": "c_aks74u__kw_g",
+      "Headshots": "c__aks74u_hsh_g",
+      "ShotsFired": "c_aks74u__sfw_g",
+      "ShotsHit": "c_aks74u__shw_g"
+    },
+    {
+      "Name": "UZI",
+      "Kills": "c_uzi__kw_g",
+      "Headshots": "c__uzi_hsh_g",
+      "ShotsFired": "c_uzi__sfw_g",
+      "ShotsHit": "c_uzi__shw_g"
+    },
+    {
+      "Name": "PP-2000 AVTOMAT",
+      "Kills": "c_pp2__kw_g",
+      "Headshots": "c__pp2_hsh_g",
+      "ShotsFired": "c_pp2__sfw_g",
+      "ShotsHit": "c_pp2__shw_g"
+    },
+    {
+      "Name": "UMP-45",
+      "Kills": "c_ump__kw_g",
+      "Headshots": "c__ump_hsh_g",
+      "ShotsFired": "c_ump__sfw_g",
+      "ShotsHit": "c_ump__shw_g"
+    },
+    {
+      "Name": "PKM LMG",
+      "Kills": "c_pkm__kw_g",
+      "Headshots": "c__pkm_hsh_g",
+      "ShotsFired": "c_pkm__sfw_g",
+      "ShotsHit": "c_pkm__shw_g"
+    },
+    {
+      "Name": "M249 SAW",
+      "Kills": "c_m249__kw_g",
+      "Headshots": "c__m249_hsh_g",
+      "ShotsFired": "c_m249__sfw_g",
+      "ShotsHit": "c_m249__shw_g"
+    },
+    {
+      "Name": "TYPE 88 LMG",
+      "Kills": "c_qju88__kw_g",
+      "Headshots": "c__qju88_hsh_g",
+      "ShotsFired": "c_qju88__sfw_g",
+      "ShotsHit": "c_qju88__shw_g"
+    },
+    {
+      "Name": "M60 LMG",
+      "Kills": "c_m60__kw_g",
+      "Headshots": "c__m60_hsh_g",
+      "ShotsFired": "c_m60__sfw_g",
+      "ShotsHit": "c_m60__shw_g"
+    },
+    {
+      "Name": "XM8 LMG",
+      "Kills": "c_xm8lmg__kw_g",
+      "Headshots": "c__xm8lmg_hsh_g",
+      "ShotsFired": "c_xm8lmg__sfw_g",
+      "ShotsHit": "c_xm8lmg__shw_g"
+    },
+    {
+      "Name": "MG36",
+      "Kills": "c_mg36__kw_g",
+      "Headshots": "c__mg36_hsh_g",
+      "ShotsFired": "c_mg36__sfw_g",
+      "ShotsHit": "c_mg36__shw_g"
+    },
+    {
+      "Name": "MG3",
+      "Kills": "c_mg3__kw_g",
+      "Headshots": "c__mg3_hsh_g",
+      "ShotsFired": "c_mg3__sfw_g",
+      "ShotsHit": "c_mg3__shw_g"
+    },
+    {
+      "Name": "M24 SNIPER",
+      "Kills": "c_m24__kw_g",
+      "Headshots": "c__m24_hsh_g",
+      "ShotsFired": "c_m24__sfw_g",
+      "ShotsHit": "c_m24__shw_g"
+    },
+    {
+      "Name": "TYPE 88 SNIPER",
+      "Kills": "c_qbu88__kw_g",
+      "Headshots": "c__qbu88_hsh_g",
+      "ShotsFired": "c_qbu88__sfw_g",
+      "ShotsHit": "c_qbu88__shw_g"
+    },
+    {
+      "Name": "SV98 SNAIPERSKAYA",
+      "Kills": "c_sv98__kw_g",
+      "Headshots": "c__sv98_hsh_g",
+      "ShotsFired": "c_sv98__sfw_g",
+      "ShotsHit": "c_sv98__shw_g"
+    },
+    {
+      "Name": "SVU SHORT",
+      "Kills": "c_svu__kw_g",
+      "Headshots": "c__svu_hsh_g",
+      "ShotsFired": "c_svu__sfw_g",
+      "ShotsHit": "c_svu__shw_g"
+    },
+    {
+      "Name": "GOL SNIPER MAGNUM",
+      "Kills": "c_gol__kw_g",
+      "Headshots": "c__gol_hsh_g",
+      "ShotsFired": "c_gol__sfw_g",
+      "ShotsHit": "c_gol__shw_g"
+    },
+    {
+      "Name": "VSS SPECIAL",
+      "Kills": "c_vss__kw_g",
+      "Headshots": "c__vss_hsh_g",
+      "ShotsFired": "c_vss__sfw_g",
+      "ShotsHit": "c_vss__shw_g"
+    },
+    {
+      "Name": "M95 SNIPER",
+      "Kills": "c_m95__kw_g",
+      "Headshots": "c__m95_hsh_g",
+      "ShotsFired": "c_m95__sfw_g",
+      "ShotsHit": "c_m95__shw_g"
+    },
+    {
+      "Name": "870 MCS",
+      "Kills": "c_mcs__kw_g",
+      "Headshots": "c__mcs_hsh_g",
+      "ShotsFired": "c_mcs__sfw_g",
+      "ShotsHit": "c_mcs__shw_g"
+    },
+    {
+      "Name": "SAIGA 20K SEMI",
+      "Kills": "c_s12k__kw_g",
+      "Headshots": "c__s12k_hsh_g",
+      "ShotsFired": "c_s12k__sfw_g",
+      "ShotsHit": "c_s12k__shw_g"
+    },
+    {
+      "Name": "SPAS-12 COMBAT",
+      "Kills": "c_spas12__kw_g",
+      "Headshots": "c__spas12_hsh_g",
+      "ShotsFired": "c_spas12__sfw_g",
+      "ShotsHit": "c_spas12__shw_g"
+    },
+    {
+      "Name": "M14 MOD 0 ENHANCED",
+      "Kills": "c_mk14ebr__kw_g",
+      "Headshots": "c__mk14ebr_hsh_g",
+      "ShotsFired": "c_mk14ebr__sfw_g",
+      "ShotsHit": "c_mk14ebr__shw_g"
+    },
+    {
+      "Name": "NEOSTEAD 200 COMBAT",
+      "Kills": "c_n2k__kw_g",
+      "Headshots": "c__n2k_hsh_g",
+      "ShotsFired": "c_n2k__sfw_g",
+      "ShotsHit": "c_n2k__shw_g"
+    },
+    {
+      "Name": "USAS-12 AUTO",
+      "Kills": "c_u12__kw_g",
+      "Headshots": "c__u12_hsh_g",
+      "ShotsFired": "c_u12__sfw_g",
+      "ShotsHit": "c_u12__sw_g"
+    },
+    {
+      "Name": "G3",
+      "Kills": "c_g3__kw_g",
+      "Headshots": "c__g3_hsh_g",
+      "ShotsFired": "c_g3__sfw_g",
+      "ShotsHit": "c_g3__shw_g"
+    },
+    {
+      "Name": "M9 PISTOL",
+      "Kills": "c_m9__kw_g",
+      "Headshots": "c__m9_hsh_g",
+      "ShotsFired": "c_m9__sfw_g",
+      "ShotsHit": "c_m9__shw_g"
+    },
+    {
+      "Name": "MP-443 GRACH",
+      "Kills": "c_mp443__kw_g",
+      "Headshots": "c__mp443_hsh_g",
+      "ShotsFired": "c_mp443__sfw_g",
+      "ShotsHit": "c_mp443__shw_g"
+    },
+    {
+      "Name": "WWII M1911 .45",
+      "Kills": "c_m1911__kw_g",
+      "Headshots": "c__m1911_hsh_g",
+      "ShotsFired": "c_m1911__sfw_g",
+      "ShotsHit": "c_m1911__shw_g"
+    },
+    {
+      "Name": "MP-412 REX",
+      "Kills": "c_mp412__kw_g",
+      "Headshots": "c__mp412_hsh_g",
+      "ShotsFired": "c_mp412__sfw_g",
+      "ShotsHit": "c_mp412__shw_g"
+    },
+    {
+      "Name": "M93R BURST",
+      "Kills": "c_m93r__kw_g",
+      "Headshots": "c__m93r_hsh_g",
+      "ShotsFired": "c_m93r__sfw_g",
+      "ShotsHit": "c_m93r__shw_g"
+    },
+    {
+      "Name": "40MM GRENADE",
+      "Kills": "c_40mmgl__kw_g",
+      "Headshots": "c__40mmgl_hsh_g",
+      "ShotsFired": "c_40mmgl__sfw_g",
+      "ShotsHit": "c_40mmgl__shw_g"
+    },
+    {
+      "Name": "40MM SHOTGUN",
+      "Kills": "c_40mmsg__kw_g",
+      "Headshots": "c__40mmsg_hsh_g",
+      "ShotsFired": "c_40mmsg__sfw_g",
+      "ShotsHit": "c_40mmsg__shw_g"
+    },
+    {
+      "Name": "REPAIR TOOL",
+      "Kills": "c_rept__kw_g",
+      "Headshots": "c__rept_hsh_g",
+      "ShotsFired": "c_rept__sfw_g",
+      "ShotsHit": "c_rept__shw_g"
+    },
+    {
+      "Name": "RPG-7 AT",
+      "Kills": "c_rpg7__kw_g",
+      "Headshots": "c__rpg7_hsh_g",
+      "ShotsFired": "c_rpg7__sfw_g",
+      "ShotsHit": "c_rpg7__shw_g"
+    },
+    {
+      "Name": "ANTI-TANK MINE",
+      "Kills": "c_atm__kw_g",
+      "Headshots": "c__atm_hsh_g",
+      "ShotsFired": "c_atm__sfw_g",
+      "ShotsHit": "c_atm__shw_g"
+    },
+    {
+      "Name": "M2 CARL GUSTAV AT",
+      "Kills": "c_m2cg__kw_g",
+      "Headshots": "c__m2cg_hsh_g",
+      "ShotsFired": "c_m2cg__sfw_g",
+      "ShotsHit": "c_m2cg__shw_g"
+    },
+    {
+      "Name": "M136 AT4",
+      "Kills": "c_m136__kw_g",
+      "Headshots": "c__m136_hsh_g",
+      "ShotsFired": "c_m136__sfw_g",
+      "ShotsHit": "c_m136__shw_g"
+    },
+    {
+      "Name": "DEFIBRILLATOR",
+      "Kills": "c_defi__kw_g",
+      "Headshots": "c__defi_hsh_g",
+      "ShotsFired": "c_defi__sfw_g",
+      "ShotsHit": "c_defi__shw_g"
+    }
+  ],
+  "Vehicles": [
+    {
+      "Name": "AH-64 APACHE",
+      "Kills": "c__ah64_ki_g",
+      "RoadKills": "c_rok_ah64_kwi_g",
+      "DistanceDriven": "c_ah64__ddw_g"
+    },
+    {
+      "Name": "MI-28 HAVOC",
+      "Kills": "c_aek__kw_g",
+      "RoadKills": "c__aek_hsh_g",
+      "DistanceDriven": "c_aek__sfw_g"
+    },
+    {
+      "Name": "MI-24 HIND",
+      "Kills": "c__havoc_ki_g",
+      "RoadKills": "c_havoc__ddw_g",
+      "DistanceDriven": "c_havoc__si_g"
+    },
+    {
+      "Name": "UH-60 BLACK HAWK",
+      "Kills": "c__ah60_ki_g",
+      "RoadKills": "c_rok_ah60_kwi_g",
+      "DistanceDriven": "c_ah60__ddw_g"
+    },
+    {
+      "Name": "M1A2 ABRAMS",
+      "Kills": "c__m1a2_ki_g",
+      "RoadKills": "c_rok_m1a2_kwi_g",
+      "DistanceDriven": "c_m1a2__ddw_g"
+    },
+    {
+      "Name": "M3A3 BRADLEY",
+      "Kills": "c__m3a3_ki_g",
+      "RoadKills": "c_rok_m3a3_kwi_g",
+      "DistanceDriven": "c_m3a3__ddw_g"
+    },
+    {
+      "Name": "T-90 MBT",
+      "Kills": "c__t90_ki_g",
+      "RoadKills": "c_rok_t90_kwi_g",
+      "DistanceDriven": "c_t90__ddw_g"
+    },
+    {
+      "Name": "BMD3 BAKHCHA",
+      "Kills": "c__bmd3_ki_g",
+      "RoadKills": "c_rok_bmd3_kwi_g",
+      "DistanceDriven": "c_bmd3__ddw_g"
+    },
+    {
+      "Name": "UAV",
+      "Kills": "c__uav_ki_g",
+      "RoadKills": "c_rok_uav_kwi_g",
+      "DistanceDriven": "c_uav__ddw_g"
+    },
+    {
+      "Name": "HMMWV 4WD",
+      "Kills": "c__hmv_ki_g",
+      "RoadKills": "c_rok_hmv_kwi_g",
+      "DistanceDriven": "c_hmv__ddw_g"
+    },
+    {
+      "Name": "VODNIK 4WD",
+      "Kills": "c__vodn_ki_g",
+      "RoadKills": "c_rok_vodn_kwi_g",
+      "DistanceDriven": "c_vodn__ddw_g"
+    },
+    {
+      "Name": "COBRA 4WD",
+      "Kills": "c__cobr_ki_g",
+      "RoadKills": "c_rok_cobr_kwi_g",
+      "DistanceDriven": "c_cobr__ddw_g"
+    },
+    {
+      "Name": "QUAD BIKE",
+      "Kills": "c__quad_ki_g",
+      "RoadKills": "c_rok_quad_kwi_g",
+      "DistanceDriven": "c_quad__ddw_g"
+    },
+    {
+      "Name": "PERSONAL WATER CRAFT",
+      "Kills": "c__jets_ki_g",
+      "RoadKills": "c_rok_jets_kwi_g",
+      "DistanceDriven": "c_jets__ddw_g"
+    },
+    {
+      "Name": "PATROL BOAT",
+      "Kills": "c__PBLB_ki_g",
+      "RoadKills": "c_rok_PBLB_kwi_g",
+      "DistanceDriven": "c_PBLB__ddw_g"
+    }
+  ]
+}
