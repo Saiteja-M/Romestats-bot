@@ -4,66 +4,66 @@ import com.jagrosh.jdautilities.examples.doc.Author;
 
 @Author("Saiteja")
 public class WeaponObj {
-	
-	private String name;
-	private int kills;
-	private int headshots;
-	private int shotsFired;
-	private int shotsHit;
-	
-	public WeaponObj(String name, int kills, int headshots, int shotsFired, int shotsHit) {
-		super();
-		this.name = name;
-		this.kills = kills;
-		this.headshots = headshots;
-		this.shotsFired = shotsFired;
-		this.shotsHit = shotsHit;
-	}
 
-	public String getName() {
-		return name;
-	}
+    private String name;
+    private int kills;
+    private int headshots;
+    private int shotsFired;
+    private int shotsHit;
 
-	public void setName(String name) {
-		this.name = name;
-	}
+    public WeaponObj(String name, int kills, int headshots, int shotsFired, int shotsHit) {
+        super();
+        this.name = name;
+        this.kills = kills;
+        this.headshots = headshots;
+        this.shotsFired = shotsFired;
+        this.shotsHit = shotsHit;
+    }
 
-	public int getKills() {
-		return kills;
-	}
+    public String getName() {
+        return name;
+    }
 
-	public void setKills(int kills) {
-		this.kills = kills;
-	}
+    public void setName(String name) {
+        this.name = name;
+    }
 
-	public int getHeadshots() {
-		return headshots;
-	}
+    public int getKills() {
+        return kills;
+    }
 
-	public void setHeadshots(int headshots) {
-		this.headshots = headshots;
-	}
+    public void setKills(int kills) {
+        this.kills = kills;
+    }
 
-	public int getShotsFired() {
-		return shotsFired;
-	}
+    public int getHeadshots() {
+        return headshots;
+    }
 
-	public void setShotsFired(int shotsFired) {
-		this.shotsFired = shotsFired;
-	}
+    public void setHeadshots(int headshots) {
+        this.headshots = headshots;
+    }
 
-	public int getShotsHit() {
-		return shotsHit;
-	}
+    public int getShotsFired() {
+        return shotsFired;
+    }
 
-	public void setShotsHit(int shotsHit) {
-		this.shotsHit = shotsHit;
-	}
-	
-	public String getAccuracy() {
-		float acc = (((float) shotsHit / (float) shotsFired) * 100);
-		double accuracy = Math.round(acc * 100.0) / 100.0;
-		return accuracy + "%";
-	}
+    public void setShotsFired(int shotsFired) {
+        this.shotsFired = shotsFired;
+    }
+
+    public int getShotsHit() {
+        return shotsHit;
+    }
+
+    public void setShotsHit(int shotsHit) {
+        this.shotsHit = shotsHit;
+    }
+
+    public String getAccuracy() {
+        float acc = (((float) shotsHit / (float) shotsFired) * 100);
+        double accuracy = Math.round(acc * 100.0) / 100.0;
+        return accuracy + "%";
+    }
 
 }
