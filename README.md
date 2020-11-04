@@ -2,7 +2,7 @@
 This bot uses Emulator Nexus API to fetch the required statistics<br>
 In order to run the bot on your own, just rename `.env.example` to `.env` and change the values accordingly
 
-Alternatively you can invite the bot using this [link](https://discord.com/api/oauth2/authorize?client_id=707896679197573131&permissions=8&scope=bot)
+Alternatively you can invite the bot using this ~~link~~ (Will be provided soon)
 
 ## Available Commands
 
